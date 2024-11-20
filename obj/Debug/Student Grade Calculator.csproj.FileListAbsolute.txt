@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Student Grade Calculator\Student Grade Calculator\bin\Debug\Student Grade Calculator.exe.config
+C:\Users\DELL\source\repos\Student Grade Calculator\Student Grade Calculator\bin\Debug\Student Grade Calculator.exe
+C:\Users\DELL\source\repos\Student Grade Calculator\Student Grade Calculator\bin\Debug\Student Grade Calculator.pdb
+C:\Users\DELL\source\repos\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student Grade Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student Grade Calculator.exe
+C:\Users\DELL\source\repos\Student Grade Calculator\Student Grade Calculator\obj\Debug\Student Grade Calculator.pdb
